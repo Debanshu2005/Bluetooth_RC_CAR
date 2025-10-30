@@ -105,7 +105,7 @@ Pair the ESP32 via Bluetooth (device name will appear as *ESP32_BT* or similar) 
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Debanshu Sarkar**, **Sriparno Roy**, **Kaushani Das**, **Somoshree Halder**
 
